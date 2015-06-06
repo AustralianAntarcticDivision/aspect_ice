@@ -1,14 +1,3 @@
-# 3. ASPECT sea ice thickness data. There is a collection of data from many 
-# voyages over many years that currently exist in individual files in a custom 
-# format in the AADC. There is also some of this data on aspect.aq (used to be 
-# maintained by Tony Worby, now by Petra I think). We need to convert all of our 
-# individual files to CSV, combine them into a single database table or file, 
-# and update various metadata records and probably the aspect.aq copy as well. 
-# Petra has also engaged a consultant to write new observation/recording software, 
-# which was used last season. We'll need to make sure that the data coming from 
-# that is consistent with whatever we use internally. Your focus here would be on 
-# the data manipulation, tidying, conversion, error checking, etc etc rather than the 
-# application itself.
 
 ## data here:
 ##http://aspect.antarctica.gov.au/data
